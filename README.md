@@ -55,7 +55,7 @@ Welcome to my Django E-commerce Application! This project allows users to regist
 - **Manage Products**: Admin users can add, update, or delete products.
 - **Place Orders**: Users can browse products and place orders.
 
-## 📂 Project Structure
+## 📂 Major Project Structure
 
 - **fc_django/**: Main project directory containing settings and configurations.
     - **settings.py**: Configuration for the Django project.
