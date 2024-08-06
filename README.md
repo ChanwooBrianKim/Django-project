@@ -21,7 +21,7 @@ Welcome to my Django E-commerce Application! This project allows users to regist
 
 1. **Clone the Repo**:
 
-bash
+'''bash
     git clone https://github.com/ChanwooBrianKim/Django-project.git
     cd Django-project
 
