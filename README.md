@@ -21,33 +21,33 @@ Welcome to my Django E-commerce Application! This project allows users to regist
 
 1. **Clone the Repo**:
 
-bash
+    ```bash
     git clone https://github.com/ChanwooBrianKim/Django-project.git
     cd Django-project
 
 2. **Create and Activate Virtual Environment**:
 
-bash
+    ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install Dependencies**:
 
-bash
+    ```bash
     pip install -r requirements.txt
 
 4. **Apply Migrations**:
 
-bash
+    ```bash
     python manage.py migrate
 
 5. **Run the Development Server**:
 
-bash
+    ```bash
     python manage.py runserver
 
 6. **Open in Browser**:
-bash
+    ```bash
     http://127.0.0.1:8000/
 
 ## 🤔 How to Use
